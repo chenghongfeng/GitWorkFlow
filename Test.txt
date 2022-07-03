@@ -11,7 +11,7 @@ line10
 dofuture pg3d step4
 12
 13
-do future pg3d  step1
-do future pd3d step2
-do future pg3d step3
-do future pg3d step5
+14
+15
+16
+17
